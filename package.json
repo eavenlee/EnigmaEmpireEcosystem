@@ -1,0 +1,26 @@
+{
+"name": "1-mpireksystem",
+"version": "1.0.0",
+"description": "The Online Language Learning Platform provides interactive language courses and lessons for learners of all proficiency levels, with features such as speech",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/eavenlee/EnigmaEmpireEcosystem.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "eavenlee",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
